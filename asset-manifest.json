@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.1c324145.chunk.css",
+    "main.js": "/react/static/js/main.eca6bc79.chunk.js",
+    "main.js.map": "/react/static/js/main.eca6bc79.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.fd0f482a.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.fd0f482a.js.map",
+    "static/js/2.9a0601b0.chunk.js": "/react/static/js/2.9a0601b0.chunk.js",
+    "static/js/2.9a0601b0.chunk.js.map": "/react/static/js/2.9a0601b0.chunk.js.map",
+    "static/js/3.d191329b.chunk.js": "/react/static/js/3.d191329b.chunk.js",
+    "static/js/3.d191329b.chunk.js.map": "/react/static/js/3.d191329b.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/main.1c324145.chunk.css.map": "/react/static/css/main.1c324145.chunk.css.map",
+    "static/js/2.9a0601b0.chunk.js.LICENSE.txt": "/react/static/js/2.9a0601b0.chunk.js.LICENSE.txt",
+    "static/media/Meme.2cec540d.jpg": "/react/static/media/Meme.2cec540d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0f482a.js",
+    "static/js/2.9a0601b0.chunk.js",
+    "static/css/main.1c324145.chunk.css",
+    "static/js/main.eca6bc79.chunk.js"
+  ]
+}
